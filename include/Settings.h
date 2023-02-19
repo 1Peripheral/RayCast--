@@ -21,7 +21,7 @@ inline constexpr int  RENDER_SCREEN_HEIGHT = SCREEN_HEIGHT ;//- MAP_SCREEN_HEIGH
 inline constexpr Color COLOR_GREEN = {50, 150, 69, 255};
 
 // Player Settings
-#define ANGLE_VEL          0.07
+#define ANGLE_VEL          3
 #define SPEED              100
 
 // Rays
