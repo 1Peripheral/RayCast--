@@ -1,6 +1,6 @@
 #pragma once
 #include <raylib.h>
-#include <settings.h>
+#include <Settings.h>
 
 
 class Map
