@@ -5,10 +5,10 @@ A very simple ray casting engine make using RayLib library.
 
 ### Demo
 Rendering :
-![](/imgs/rendered.png)
+![](rendered.png)
 
 Minimap :
-![](/imgs/minimap.png)
+![](minimap.png)
 
 N.B :
 FPS is somewhat low on the screenshots because of the way i took them .
